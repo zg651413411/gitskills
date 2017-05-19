@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-git fen zi guan li
-zai master fen zi shang mian xiugai
-Creating a new branch is quick & simple
-=======
-git fen zi guang li
->>>>>>> feature1
+xin de fen zhi
